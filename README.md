@@ -1,6 +1,6 @@
 # mstdn.aoirint.com-docs
 
-mstdn.aoirint.comの補完的なドキュメントをおくリポジトリ。
+Mastodonサーバー [mstdn.aoirint.com](https://mstdn.aoirint.com/) の補完的なドキュメントをおくリポジトリ。
 
 Mastodonの機能でカバーすることが難しい文書をおくことを想定しています。
 
