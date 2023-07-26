@@ -31,5 +31,5 @@
 それと確認できる方法で、以下の連絡先またはGitHub Issueを通じて連絡をください。
 
 - メール: aoirint@gmail.com
-- Twitter: https://twitter.com/aoirint
-- Fediverse: https://mstdn.aoirint.com/@aoirint
+- Twitter: [@aoirint](https://twitter.com/aoirint)
+- Fediverse: [@aoirint@mstdn.aoirint.com](https://mstdn.aoirint.com/@aoirint)
